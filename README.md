@@ -1,4 +1,4 @@
-<h1>RedMatchHack</h1>
+<h1>RedMatchHack Internal Cheat</h1>
 
 <p>WARNING: BEFORE INJECT THE GAME MUST BE IN WINDOWMODE OR BORDERLESS</p>
 <p>INSERT -> Open the menu</p>
