@@ -16,21 +16,13 @@
 
 <h2>Features</h2>
 
-<h4>Aimbot</h4>
-<p>-ShowFov</p>
-<p>-AimbotSpeed</p>
+<h4>-> Aimbot</h4>
+<h4>-> Esp</h4>
+<h4>-> Misc</h4>
+<h4>-> GodMode<h4>
+<h4>-> LimitFps <h4>
+<h4>-> WeaponEditor<h4>
 
-<h4>Esp</h4>
-<p>-DrawBox</p>
-<p>-DrawLines</p>
-
-<h4>Misc</h4>
-<p>-GodMode</p>
-<p>-LimitFps </p>
-<p>-WeaponEditor</p>
-<p>--ChangeShots</p>
-<p>--ChangeSpread</p>
-<p>--ChangeFireRate</p>
 
 <h2>Menu</h2>
 <img src="AimTab.png">
